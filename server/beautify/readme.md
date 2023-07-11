@@ -4,7 +4,7 @@ Just execute the beautify.sh file from home directory of the user with superuser
 
 # Commands
 
-From Home directory of user run following:
+From Home directory of user run the following in terminal:
 
 ``` sudo sh beautify/install.sh ```
 
